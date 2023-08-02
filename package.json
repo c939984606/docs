@@ -1,5 +1,5 @@
 {
-  "name": "doc.abcdl.cn",
+  "name": "test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,6 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
