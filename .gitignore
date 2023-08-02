@@ -1,0 +1,8 @@
+node_modules
+.temp
+.cache
+.well-known
+.user.ini
+.htaccess
+404.html
+index.html
