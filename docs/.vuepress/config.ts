@@ -47,8 +47,8 @@ export default defineUserConfig({
             {text: '图床', link: '/photos/'},
             {text: '博客', link: '/blog/'},
             {text: '论坛', link: '/forum/'},
-            {text: '商城', link: '/shop/'},
             {text: '云盘', link: '/disk/'},
+            {text: 'UDID', link: '/shop/'},
         ],
         notes: false,
         footer: {
